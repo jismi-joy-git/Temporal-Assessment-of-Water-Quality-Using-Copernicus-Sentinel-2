@@ -3,8 +3,6 @@ A Google Earth Engine Based Analytical Dashboard utilizing Copernicus Sentinel-2
 ## Overview
 This repository hosts a cloud-native analytical dashboard built on **Google Earth Engine (GEE)**. It leverages the **Copernicus Sentinel-2** constellation to provide a high-frequency, multi-parametric assessment of inland and coastal water bodies. 
 
-The project addresses the "Invisible Water Crisis" by democratizing access to environmental engineering tools, enabling local agencies and NGOs to perform professional-grade monitoring without local hardware infrastructure.
-
 ##  Key Features
 - **Multi-Parametric Monitoring:** Automated calculation of Chlorophyll-a (NDCI), Turbidity (NDTI), and Colored Dissolved Organic Matter (CDOM).
 - **Temporal Change Detection:** Compares two user-defined periods ($T_1$ vs $T_2$) to visualize ecological trends and degradation.
