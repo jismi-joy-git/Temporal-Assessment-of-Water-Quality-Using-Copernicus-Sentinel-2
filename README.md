@@ -24,7 +24,7 @@ The project addresses the "Invisible Water Crisis" by democratizing access to en
 3. **Configure Dates:** Adjust the start and end dates for your Reference ($T_1$) and Comparison ($T_2$) periods in the UI panel.
 4. **Analyze:** Run the script to generate interactive layers, change maps, and dynamic time-series charts.
 
-## 🌍 Impact: Democratizing Environmental Engineering
+##  Impact: Democratizing Environmental Engineering
 Our solution democratizes environmental monitoring by removing infrastructure barriers. Using open Sentinel data, organizations and consultancies in any region can now perform water quality assessments for their specific study areas and timelines. 
 
 
